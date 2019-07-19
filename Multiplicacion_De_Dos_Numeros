@@ -1,0 +1,8 @@
+Proceso Multiplicacion_De_Dos_Numeros
+	Escribir "Escribe Un Número";
+	Leer n1;
+	Escribir "Escribe Un Número";
+	Leer n2;
+	multiplica<-n1*n2;
+	Escribir "La multiplicacion es:",multiplica;
+FinProceso
